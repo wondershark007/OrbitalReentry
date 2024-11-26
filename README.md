@@ -1,2 +1,2 @@
 # OrbitalReentry
-Ballistic Reentry simulation for a spacecraft, and a reentry simulation for a HGV separating from a FOBS 
+Ballistic Reentry simulation for a spacecraft complete with a gravity and atmospheric model. Attempting to determine a HGV from a FOBS based on the DF-ZF 
